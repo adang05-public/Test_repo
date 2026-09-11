@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "More About Me"
 ---
 
-About this site
+Hello, I'm a student studying currently at the University of British Columbia in the Masters of Data Science (Computational Linguistics). 
+I did my undergrad at University of Victoria, where I used primarily Python, with a Major in Computer Science and a Minor in Linguistics.
+During this time, I also took on an internship, where I familiarized myself with the industry tools that are used, such as Git and Java servers utilizing the Spring Boot Framework.
+
+In my spare time, I enjoy Cooking, Baking, and Gardening.
