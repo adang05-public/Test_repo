@@ -1,0 +1,32 @@
+---
+title: "Hello World"
+description: "First weeks of MDS"
+author: "Alex Dang"
+date: "2026-09-08"
+categories: [Update]
+image: ../images\ubc_master_of_data_science_program_logo.jpg
+--- 
+
+# First Weeks of MDS
+
+## First Week
+
+On the first day, we got an orientation for then entire MDS program. The room was filled with round tables, and breakfast and lunch were offered.
+I took this opportunity to connect with some fellow MDS-CL students, as well as the more general MDS-V students. The rest of the orientation was mostly
+general information distribution for a solid 5 hours, which was a bit hard to sit through, but the entire MDS faculty was introduced, and plagarism and acceptable AI use were explained
+in great detail. The following day was when the MDS-CL-only cohort had a seperate orientation. We had a campus tour of the buildings in which we'd be having our classes, spanning from the UBC library all the way to
+the linguistics department offices, which were around a 10-minute walk in between. We also had our first information session by the career programmer, and a past CL student shared their
+experiences with the crowd.
+
+During the first orientations, it was thoroughly emphasized the sheer volume of work that this program would involve, mainly due to its compact nature:
+There would be quizzes once every 2 weeks, assignments due every week, and worksheets per lecture for some classes. As I'm settling into 
+the pace of the program, the workload is getting easier to manage. Given, however, that the current material is very introductory and is designed to
+gradually ease students with not a lot of experience in statistics and programming into the program, the workload at this moment may not be the biggest workload throughout the program.
+
+## Second week
+
+We're just barely into the second week, and the workload is already piling up. The main issue is with the volume of work: planning and setting aside time
+for completion is definitely important for success. A highlight of this week was the clubs day, in which some fellow classmates from the MDS-CL cohort and I participated in by 
+strolling around in one of the main streets at UBC, which was surprisingly tightly packed with booths from various clubs: There were clubs ranging from 
+international student clubs (Ex. Italian, Pakistani, Chinese, etc.) to academic clubs (statistics & data analysis, aerospace engineering, etc.) to hobby clubs (anime, dance, sports, etc.). 
+Unfortunately, the directors of the MDS program did warn that there would not be much leisure time,  but checking out the clubs was certaining entertaining in and of itself.

@@ -2,6 +2,12 @@
 title: "My Quarto Website"
 ---
 
-This is a Quarto website.
+### Hello, I'm Alex, Nice to meet you!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column-margin}
+![](images/pfp.jpg)
+:::
+
+I'm a student in the Masters in Data Science (Computation Linguistics) program here at UBC, looking to expand their horizons 
+with the latest trends in Machine Learning and Natural Language Processing!
+
