@@ -1,6 +1,5 @@
 ---
-title: "Hello World"
-description: "First weeks of MDS"
+title: "First weeks of MDS"
 author: "Alex Dang"
 date: "2026-09-08"
 categories: [Update]
