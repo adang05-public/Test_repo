@@ -6,6 +6,10 @@ categories: [Update]
 image: ../images\ubc_master_of_data_science_program_logo.jpg
 --- 
 
+::: {.column-margin}
+![UBC MDS Logo](../images/ubc_master_of_data_science_program_logo.jpg)
+:::
+
 # First Weeks of MDS
 
 ## First Week
