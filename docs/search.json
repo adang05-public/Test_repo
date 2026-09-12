@@ -28,6 +28,20 @@
     "text": "Hello, I’m a student studying currently at the University of British Columbia in the Masters of Data Science (Computational Linguistics). I did my undergrad at University of Victoria, where I used primarily Python, with a Major in Computer Science and a Minor in Linguistics. There, I was first exposed to the basic foundations of AI and Machine Learning, at a time when Natural Language Processing was not yet in full swing as it is now; A result of this was a heavier focus on pre-NLP models and methods (Support vector machines, Bayesian nets, Hidden Markov Models, etc.), and a more casual overview of topics such as tokenization and NLP. Nevertheless, it was there that I developed the interest and curiosity in these topics that led me to take on the MDS-CL program. During this time, I also took on an internship, where I familiarized myself with the industry tools that are used, such as Git and Java servers utilizing the Spring Boot Framework. This gave me an insight on the actual business-related demands of LLMs, not just the theoretical capabilities."
   },
   {
+    "objectID": "about.html#future-goals",
+    "href": "about.html#future-goals",
+    "title": "More About Me",
+    "section": "Future Goals",
+    "text": "Future Goals\nIn the future, I hope to deepen my skills as someone who understands how AI models really work behind-the-scenes, and gain relevant experience from the capstone project for MDS-CL. I’m also looking forward to the career programming aspect that MDS-CL provides training on, as I understand that these aspects are not necessarily intuitive. These skills will help me persist in the Data Science field, which is ultimately the final goal."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "More About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\nIn my spare time, I enjoy Cooking, Baking, and Gardening. I’m especially a fan of trying out new recipes from cuisines that are unfamiliar to me, to see if there are good techniques or flavour combinations that could work as cross-cuisine fusions."
+  },
+  {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
     "title": "First weeks of MDS",
@@ -47,19 +61,5 @@
     "title": "First weeks of MDS",
     "section": "Second week",
     "text": "Second week\nWe’re just barely into the second week, and the workload is already piling up. The main issue is with the volume of work: planning and setting aside time for completion is definitely important for success. A highlight of this week was the clubs day, in which some fellow classmates from the MDS-CL cohort and I participated in by strolling around in one of the main streets at UBC, which was surprisingly tightly packed with booths from various clubs: There were clubs ranging from international student clubs (Ex. Italian, Pakistani, Chinese, etc.) to academic clubs (statistics & data analysis, aerospace engineering, etc.) to hobby clubs (anime, dance, sports, etc.). Unfortunately, the directors of the MDS program did warn that there would not be much leisure time, but checking out the clubs was certaining entertaining in and of itself."
-  },
-  {
-    "objectID": "about.html#future-goals",
-    "href": "about.html#future-goals",
-    "title": "More About Me",
-    "section": "Future Goals",
-    "text": "Future Goals\nIn the future, I hope to deepen my skills as someone who understands how AI models really work behind-the-scenes, and gain relevant experience from the capstone project for MDS-CL. I’m also looking forward to the career programming aspect that MDS-CL provides training on, as I understand that these aspects are not necessarily intuitive. These skills will help me persist in the Data Science field, which is ultimately the final goal."
-  },
-  {
-    "objectID": "about.html#hobbies",
-    "href": "about.html#hobbies",
-    "title": "More About Me",
-    "section": "Hobbies",
-    "text": "Hobbies\nIn my spare time, I enjoy Cooking, Baking, and Gardening. I’m especially a fan of trying out new recipes from cuisines that are unfamiliar to me, to see if there are good techniques or flavour combinations that could work as cross-cuisine fusions."
   }
 ]
